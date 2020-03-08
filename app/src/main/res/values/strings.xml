@@ -2,26 +2,27 @@
     <string name="app_name">Quotes</string>
 
     <string name="quote_1">Innovation distinguished between a leader and a
-follower</string>
+        follower</string>
     <string name="quote_2">I want to put a ding in the universe!</string>
     <string name="quote_3">People don\'t know what they want until you show it to
-them.</string>
+         them.</string>
     <string name="quote_4">The only way to be truly satisfied is to do what you
 believe is great work.</string>
-    <string name="quote_5">That\'s been one of my mantras -- focus and simplicity.
-Simple can be harder than complex: You have to work hard to get your thinking
-clean to make it simple. But it\'s worth it in the end because once you get
-there, you can move mountains.</string>
-    <string name="quote_6">Great things in business are never done by one person,
-they\'re done by a team of people.</string>
-    <string name="quote_7">You can\'t connect the dots looking forward; you can
-only connect them looking backward.</string>
-    <string name="quote_8">Your work is going to fill a large part of your life,
-and the only way to be truly satisfied is to do what you believe is great
-work.</string>
-    <string name="quote_9">I\'m the only person I know that\'s lost a quarter of a
-billion dollars in one year. ... It\'s very character-building.</string>
-    <string name="quote_10">It\'s more fun to be a pirate than join the
-Navy.</string>
+    <string name="quote_5">That\'s been one of my mantras — focus and simplicity.
+        Simple can be harder than complex: You have to work hard to get your thinking
+        clean to make it simple. But it\'s worth it in the end because once you get
+        there, you can move mountains.</string>
+    <string name="quote_6"> Have you ever noticed that anybody driving slower than you is an idiot,
+        and anyone going faster than you is a maniac? - George Carlin</string>
+    <string name="quote_7"> Everyone may not be good, but there\'s always something good
+        in everyone. Never judge anyone shortly because every saint has a past and every sinner
+        has a future. - Oscar Wilde</string>
+    <string name="quote_8"> I told my wife the truth. I told her I was seeing a psychiatrist.
+        Then she told me the truth: that she was seeing a psychiatrist, two plumbers,
+        and a bartender. - Rodney Dangerfield</string>
+    <string name="quote_9"> When I die, I want to die like my grandfather who died peacefully
+        in his sleep. Not screaming like all the passengers in his car. - Will Rogers</string>
+    <string name="quote_10"> Fight and push harder for what you believe in, you\'d be surprised,
+        you are much stronger than you think. - Lady Gagap</string>
 
 </resources>

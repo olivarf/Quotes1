@@ -36,15 +36,15 @@ public class DataSource {
 
         mPhotoPool.add(R.drawable.steve_5);
 
-        mPhotoPool.add(R.drawable.steve_6);
+        mPhotoPool.add(R.drawable.george_6);
 
-        mPhotoPool.add(R.drawable.steve_7);
+        mPhotoPool.add(R.drawable.oscar_7);
 
-        mPhotoPool.add(R.drawable.steve_8);
+        mPhotoPool.add(R.drawable.rodney_8);
 
-        mPhotoPool.add(R.drawable.steve_9);
+        mPhotoPool.add(R.drawable.will_9);
 
-        mPhotoPool.add(R.drawable.steve_10);
+        mPhotoPool.add(R.drawable.ladygaga_10);
     }
     private void setupQuotePool() {
 
@@ -80,15 +80,15 @@ public class DataSource {
 
         mPhotoHdPool.add(R.drawable.steve_hd_5);
 
-        mPhotoHdPool.add(R.drawable.steve_hd_6);
+        mPhotoHdPool.add(R.drawable.george_hd_6);
 
-        mPhotoHdPool.add(R.drawable.steve_hd_7);
+        mPhotoHdPool.add(R.drawable.oscar_hd_7);
 
-        mPhotoHdPool.add(R.drawable.steve_hd_8);
+        mPhotoHdPool.add(R.drawable.rodney_hd_8);
 
-        mPhotoHdPool.add(R.drawable.steve_hd_9);
+        mPhotoHdPool.add(R.drawable.will_hd_9);
 
-        mPhotoHdPool.add(R.drawable.apple_hd);
+        mPhotoHdPool.add(R.drawable.ladygaga_hd_10);
     }
 
 
